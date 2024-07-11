@@ -1,3 +1,6 @@
 ## Hi there 👋
 
-![Codeforces](https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=ar_rony1&style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABFElEQVQ4T6XTsYpFYRzH8e9swKQR7gjJUtKhD7AXpYbAjbQFXwB10AUkA10AolUbJ7qBQBUqtUGFyogWkpSkUpTo37vsnnmvN2/fef9rVxcm7mZmfp5lcIwdDHKYFR2R2IFkkFNYBt7E4hZ4U7uIUerhkMecZ5yKvJEpAA7iPBZRCF0mi3tmwymkBwhCWFpBzWNU8XicZjYfEKYBdm6wCPZxTkzjKPBkyDOQSlSceh9DYbHooQQOdsHugHn9BEqwXZYA2PHb9H7PY7NqtNuoAGs8BBO5jUSxTA3sU+a6hbFJmK8VAH9FHpmdQp4ojYBD3IV70ngSwJtQJ9Se4K8J9r/nwFsbqO6JfgH8l/OHb6rJ+R4QAAAABJRU5ErkJggg==)
+![Codeforces](https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=ar_rony1&style=for-the-badge&logo=codeforces)        ![CodeChef](https://img.shields.io/badge/CodeChef-1915-purple?style=for-the-badge&logo=codechef)   ![AtCoder](https://img.shields.io/badge/AtCoder-960-brightgreen?style=for-the-badge&logo=atcoder)  ![LeetCode](https://img.shields.io/badge/LeetCode-1770-blue?style=for-the-badge&logo=leetcode)
+
+
+
