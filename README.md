@@ -25,7 +25,7 @@
 
 <!-- toph -->
 <a href="https://toph.co/u/ar_rony1" title="toph">
-  <img src="https://i.ibb.co/8jgL0cb/toph.png" alt="toph" width="22px"/>
+  <img src="https://i.ibb.co/8jgL0cb/toph.png" alt="toph" width="52px"/>
 </a>
 <!-- hacker rank -->
 <a href="https://www.hackerrank.com/profile/ar_rony" title="Hackerrank">
@@ -33,15 +33,21 @@
 </a>
 <!-- hacker earth -->
 <a href="https://www.hackerrank.com/profile/ar_rony" title="Hackerearth">
-  <img src="https://i.ibb.co/Hp64hQr/hackerearth.png" alt="hackerearth" width="22px"/>
+  <img src="https://i.ibb.co/Hp64hQr/hackerearth.png" alt="hackerearth" width="52px"/>
 </a>
 <!-- vjudge-->
 <a href="https://vjudge.net/user/Rony129" title="Vjudge">
-  <img src="https://i.ibb.co/Hp64hQr/hackerearth.png" alt="hackerearth" width="22px"/>
+  <img src="https://i.ibb.co/kcyXj9D/11b24ab2156955d8f3fa.png" alt="11b24ab2156955d8f3fa" width="22px"/>
 </a>
 
-<a href="https://www.linkedin.com/in/md-abdur-rhaman-rony-108ab51aa/">
-  <img src="https://i.ibb.co/5j0XpDR/linkedin.png" alt="LinkedIn" width="22px" />
+<!-- kattis-->
+<a href="https://open.kattis.com/users/rony1?tab=submissions" title="Kattis">
+  <img src="https://i.ibb.co/sg4hygV/kattis.jpg" alt="kattis" width="52px"/>
+</a>
+
+<!-- cses-->
+<a href="https://cses.fi/user/25246" title="CSES">
+  <img src="https://i.ibb.co/RSQVcq7/cses.jpg" alt="cses" width="52px"/>
 </a>
 <!-- Replace "images/" with the actual path to your images folder -->
 
