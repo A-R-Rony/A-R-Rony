@@ -9,12 +9,21 @@
 -->
 <!--
  > Contact with Me
+ <img src="https://i.ibb.co/5j0XpDR/linkedin.png" alt="LinkedIn" width="22px" />
+-->
+
+<!-- light oj -->
+<a href="https://lightoj.com/user/rhamanrony12">
+  <img src="https://i.ibb.co/cT0g4Jy/lightoj.png" alt="lightoj" width="22px"/>
+</a>
+<!-- uva -->
+<a href="https://uhunt.onlinejudge.org/id/1130825">
+  <img src="https://i.ibb.co/7JJQKvD/uva.png" alt="uva" width="22px"/>
+</a>
 
 <a href="https://www.linkedin.com/in/md-abdur-rhaman-rony-108ab51aa/">
   <img src="https://i.ibb.co/5j0XpDR/linkedin.png" alt="LinkedIn" width="22px" />
 </a>
--->
-
 <!-- Replace "images/" with the actual path to your images folder -->
 
 
