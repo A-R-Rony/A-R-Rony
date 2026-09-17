@@ -64,8 +64,8 @@ Strong foundation in algorithms, complexity analysis, and mathematical problem-s
 
 <div align="left">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-1997%20(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ar_rony1/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1638%20(Expert)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ar_rony1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2075%20(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ar_rony1/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1640%20(Expert)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ar_rony1)
 [![CodeChef](https://img.shields.io/badge/CodeChef-1930%20(4★)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ar_rony1)
 [![AtCoder](https://img.shields.io/badge/AtCoder-960-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/ar_rony1)
 
