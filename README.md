@@ -80,8 +80,8 @@ Strong foundation in algorithms, complexity analysis, and mathematical problem-s
 ### 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=A-R-Rony&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rony's GitHub stats" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-R-Rony&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-R-Rony&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rony's GitHub stats" height="160" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A-R-Rony&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
 </div>
 
 ---
