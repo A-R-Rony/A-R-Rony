@@ -1,57 +1,92 @@
-## Hi, I am Md.Abdur Rhaman Rony
+﻿<div align="center">
 
-[![Codeforces](https://img.shields.io/badge/Codeforces-1638-blue?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/ar_rony1)  [![CodeChef](https://img.shields.io/badge/CodeChef-1930-purple?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/ar_rony1)    [![AtCoder](https://img.shields.io/badge/AtCoder-960-brightgreen?style=for-the-badge&logo=atcoder)](https://atcoder.jp/users/ar_rony1)  [![LeetCode](https://img.shields.io/badge/LeetCode-1997-blue?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/ar_rony1/)
+# 👋 Hi, I'm Md. Abdur Rhaman Rony
+### Software Engineer · .NET | Angular | System Design & Applied AI
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-a--r--rony.github.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://a-r-rony.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ar-rony1/)
+[![Email](https://img.shields.io/badge/Email-rhamanrony128%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhamanrony128@gmail.com)
+
+<br/>
+
+> *"Good software. Built with intention."*  
+> Software Engineer at **BRAC IT Services Limited**, passionate about building resilient distributed systems, fast APIs, modern web apps, and applied AI workflows.
+
+</div>
+
 ---
-![Total problems solved](https://img.shields.io/badge/Total%20problems%20solved-~4000-brightgreen?style=for-the-badge&logoColor=white&logo=toph)
-> ## Others Online judge accounts
-<!--
-[![Light ](https://img.shields.io/badge/LightOj%20-ar_rony1-brightgreen?style=for-the-badge&logo=lightroom)](https://lightoj.com/user/rhamanrony12)  [![UVA](https://img.shields.io/badge/UVA%20-ar_rony1-brightgreen?style=for-the-badge&logoColor=white&logo=uva)](https://uhunt.onlinejudge.org/id/1130825)   [![Toph](https://img.shields.io/badge/Toph%20-ar_rony1-brightgreen?style=for-the-badge&logoColor=white&logo=toph)](https://toph.co/u/ar_rony1)  [![Hackerrank](https://img.shields.io/badge/Hackerrank%20-ar_rony1-brightgreen?style=for-the-badge&logoColor=white&logo=toph)](https://www.hackerrank.com/profile/ar_rony)  [![Hackerearth](https://img.shields.io/badge/Hackerearth%20-ar_rony1-brightgreen?style=for-the-badge&logoColor=white&logo=toph)](https://https://www.hackerearth.com/@ar_rony1)  [![Hackerearth](https://img.shields.io/badge/Hackerearth%20-ar_rony1-brightgreen?style=for-the-badge&logoColor=white&logo=toph)](https://https://www.hackerearth.com/@ar_rony1)  [![Vjudge](https://img.shields.io/badge/Vjudge%20-Rony129-brightgreen?style=for-the-badge&logoColor=white&logo=toph)](https://vjudge.net/user/Rony129) [![Kattis](https://img.shields.io/badge/Kattis%20-Rony-brightgreen?style=for-the-badge&logoColor=white&logo=toph)](https://open.kattis.com/users/rony1?tab=submissions) [![CSES](https://img.shields.io/badge/CSES%20-Rony-brightgreen?style=for-the-badge&logoColor=white&logo=toph)](https://cses.fi/user/25246) 
--->
-<!-- ![Codeforces](https://img.shields.io/badge/dynamic/json?color=blue&label=Codeforces&query=$.result[0].rating&url=https://codeforces.com/api/user.info?handles=ar_rony1&style=for-the-badge&logo=codeforces) 
--->
-<!--
- > Contact with Me
- <img src="https://i.ibb.co/5j0XpDR/linkedin.png" alt="LinkedIn" width="22px" />
--->
 
-<!-- light oj -->
-<a href="https://lightoj.com/user/rhamanrony12" title="LightOJ">
-  <img src="https://i.ibb.co/cT0g4Jy/lightoj.png" alt="lightoj" height="40px" width="60px"/>
-</a>
-<!-- uva -->
-<a href="https://uhunt.onlinejudge.org/id/1130825" title="UVA">
-  <img src="https://i.ibb.co/7JJQKvD/uva.png" alt="uva" height="40px" width="60px"/>
-</a>
+### 🚀 About Me
 
-<!-- toph -->
-<a href="https://toph.co/u/ar_rony1" title="toph">
-  <img src="https://i.ibb.co/8jgL0cb/toph.png" alt="toph" height="40px" width="70px"/>
-</a>
-<!-- hacker rank -->
-<a href="https://www.hackerrank.com/profile/ar_rony" title="Hackerrank">
-  <img src="https://i.ibb.co/QbLwV6Q/hackerrank.jpg" alt="hackerrank" height="40px" width="60px"/>
-</a>
-<!-- hacker earth -->
-<a href="https://www.hackerrank.com/profile/ar_rony" title="Hackerearth">
-  <img src="https://i.ibb.co/Hp64hQr/hackerearth.png" alt="hackerearth" height="40px" width="60px"/>
-</a>
-<!-- vjudge-->
-<a href="https://vjudge.net/user/Rony129" title="Vjudge">
-  <img src="https://i.ibb.co/kcyXj9D/11b24ab2156955d8f3fa.png" alt="11b24ab2156955d8f3fa" height="40px" width="60px"/>
-</a>
+- 💼 **Currently Working:** Software Engineer at **BRAC IT Services Limited** (Dhaka, Bangladesh).
+- 🛠️ **Core Focus:** Clean Architecture, High-Performance APIs, Asynchronous Processing, and Full-Stack Engineering.
+- 🧩 **Algorithmic Background:** Solved **4,200+ problems** across major platforms & participated in **400+ contests**.
+- 🎓 **Education:** B.Sc. in Computer Science & Telecommunication Engineering, Noakhali Science & Technology University (NSTU).
+- 💬 **Ask me about:** `.NET Core`, `C#`, `Angular`, `SQL Optimization`, `System Design`, and `Data Structures & Algorithms`.
 
-<!-- kattis-->
-<a href="https://open.kattis.com/users/rony1?tab=submissions" title="Kattis">
-  <img src="https://i.ibb.co/sg4hygV/kattis.jpg" alt="kattis" height="40px" width="70px"/>
-</a>
+---
 
-<!-- cses-->
-<a href="https://cses.fi/user/25246" title="CSES">
-  <img src="https://i.ibb.co/RSQVcq7/cses.jpg" alt="cses" height="40px" width="70px"/>
-</a>
-<!-- Replace "images/" with the actual path to your images folder -->
+### 💻 Tech Stack & Tools
 
+<p align="left">
+  <strong>Backend & Architecture:</strong><br/>
+  <img src="https://img.shields.io/badge/.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET Core" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET%20WebAPI-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="Web API" />
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="EF Core" />
+  <img src="https://img.shields.io/badge/Clean%20Architecture-00599C?style=flat-square&logo=blueprint&logoColor=white" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST" />
+</p>
 
-<!-- Adjust the image links and URLs accordingly with your own social media profiles -->
+<p align="left">
+  <strong>Frontend:</strong><br/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
+<p align="left">
+  <strong>Databases & DevOps:</strong><br/>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat-square&logo=microsoftsqlserver&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD" />
+</p>
 
+---
+
+### 🏆 Competitive Programming & Problem Solving
+
+Strong foundation in algorithms, complexity analysis, and mathematical problem-solving:
+
+<div align="left">
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-1997%20(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ar_rony1/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1638%20(Expert)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ar_rony1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1930%20(4★)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ar_rony1)
+[![AtCoder](https://img.shields.io/badge/AtCoder-960-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/ar_rony1)
+
+- 🔢 **4,200+** algorithmic problems solved across online judges
+- 🎯 **400+** live contests participated
+- 🎖️ Finalist at multiple national on-site programming contests
+
+</div>
+
+---
+
+### 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-R-Rony&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rony's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-R-Rony&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
+</div>
+
+---
+
+<div align="center">
+  <sub>Let's connect! Feel free to reach out for collaborations or tech discussions.</sub><br/>
+  <b><a href="https://a-r-rony.github.io/">Explore Interactive Portfolio ↗</a></b>
+</div>
