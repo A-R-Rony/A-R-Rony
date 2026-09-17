@@ -3,9 +3,19 @@
 # 👋 Hi, I'm Md. Abdur Rhaman Rony
 ### Software Engineer · .NET | Angular | System Design & Applied AI
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-a--r--rony.github.io-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://a-r-rony.github.io/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ar-rony1/)
-[![Email](https://img.shields.io/badge/Email-rhamanrony128%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rhamanrony128@gmail.com)
+<p align="center">
+  <a href="https://a-r-rony.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-a--r--rony.github.io-181717?style=flat&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ar-rony1/">
+    <img src="https://img.shields.io/badge/LinkedIn-Md.%20Abdur%20Rhaman%20Rony-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:rhamanrony128@gmail.com">
+    <img src="https://img.shields.io/badge/Email-rhamanrony128%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
 <br/>
 
@@ -64,24 +74,15 @@ Strong foundation in algorithms, complexity analysis, and mathematical problem-s
 
 <div align="left">
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-2075%20(Knight)-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ar_rony1/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1640%20(Expert)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ar_rony1)
-[![CodeChef](https://img.shields.io/badge/CodeChef-1930%20(4★)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/ar_rony1)
-[![AtCoder](https://img.shields.io/badge/AtCoder-960-222222?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/ar_rony1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-2075%20(Knight)-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/ar_rony1/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1640%20(Expert)-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/ar_rony1)
+[![CodeChef](https://img.shields.io/badge/CodeChef-1930%20(4★)-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/ar_rony1)
+[![AtCoder](https://img.shields.io/badge/AtCoder-960-222222?style=flat-square&logo=atcoder&logoColor=white)](https://atcoder.jp/users/ar_rony1)
 
 - 🔢 **4,200+** algorithmic problems solved across online judges
 - 🎯 **400+** live contests participated
 - 🎖️ Finalist at multiple national on-site programming contests
 
-</div>
-
----
-
-### 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=A-R-Rony&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Rony's GitHub stats" height="160" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A-R-Rony&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="160" />
 </div>
 
 ---
